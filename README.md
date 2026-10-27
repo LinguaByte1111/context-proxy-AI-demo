@@ -55,5 +55,4 @@ ContextProxy AI uses a decoupled, high-performance architecture optimized for lo
 
 ## 🌐 Live Demo & Links
 
-* **Frontend Dashboard (Vercel):** [View Live Dashboard](#) *(Replace with your Vercel link)*
-* **Backend API Documentation (Render):** [Swagger / OpenAPI Docs](#) *(Replace with your Render `/docs` link)*
+* **Frontend Dashboard (Vercel):** [View Live Dashboard](https://context-proxy-frontend.vercel.app)
